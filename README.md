@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ryry-codr
-- 👀 I’m interested in HTML & Python
+- 👀 I’m interested in Javascript, HTML & Python
 - 🌱 I’m currently learning HTML & Python
 - 😄 Pronouns: he/him
